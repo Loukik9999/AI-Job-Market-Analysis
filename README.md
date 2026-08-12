@@ -118,7 +118,6 @@ Python was used for data exploration, cleaning, and analysis.
 ### Libraries Used
 
 * **Pandas** — Data manipulation and analysis
-* **NumPy** — Numerical operations
 * **Jupyter Notebook** — Interactive data analysis
 
 ### Analysis Areas
@@ -216,11 +215,9 @@ The `posted_date` field can be used to examine the timing and distribution of jo
 | -------------------- | --------------------------------------- |
 | **Python**           | Data analysis and preprocessing         |
 | **Pandas**           | Data cleaning and manipulation          |
-| **NumPy**            | Numerical operations                    |
 | **Jupyter Notebook** | Interactive analysis                    |
 | **Microsoft Excel**  | Raw and cleaned dataset storage         |
 | **Power BI**         | Interactive dashboard and visualization |
-| **PowerPoint**       | Project presentation                    |
 | **Git**              | Version control                         |
 | **GitHub**           | Project hosting and portfolio           |
 
@@ -241,8 +238,6 @@ AI-Job-Market-Analysis/
 ├── powerbi/
 │   └── AI_Job_Market_Analysis.pbix
 │
-├── presentation/
-│   └── AI_Job_Market_Analysis.pptx
 │
 ├── .gitignore
 └── README.md
@@ -255,7 +250,7 @@ AI-Job-Market-Analysis/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/AI-Job-Market-Analysis.git
+git clone https://github.com/Loukik Ingale/AI-Job-Market-Analysis.git
 ```
 
 ### 2. Navigate to the Project
@@ -350,7 +345,6 @@ This project demonstrates practical knowledge of:
 * Data Visualization
 * Python
 * Pandas
-* NumPy
 * Excel
 * Power BI
 * Dashboard Development
@@ -397,19 +391,9 @@ AI_Job_Market_Analysis.pbix
 
 Interactive dashboard for exploring the AI job market.
 
-### Project Presentation
-
-```text
-AI_Job_Market_Analysis.pptx
-```
-
-Presentation summarizing the project and analysis.
-
----
-
 ## 👨‍💻 Author
 
-**Louks**
+**Loukik Ingale**
 
 Data Science / Data Analytics Project
 
