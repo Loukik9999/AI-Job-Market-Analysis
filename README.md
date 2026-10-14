@@ -355,6 +355,15 @@ This project demonstrates practical knowledge of:
 
 ---
 
+## 📊 Dashboard Preview
+<img width="1323" height="742" alt="image" src="https://github.com/user-attachments/assets/4eefa4a4-48ac-4d34-9a7f-fd8c5ed6b14a" />
+<img width="1325" height="743" alt="image" src="https://github.com/user-attachments/assets/787430b8-3963-43bc-a4c6-bbcfcab408f0" />
+<img width="1323" height="742" alt="image" src="https://github.com/user-attachments/assets/2d151270-4b4e-44e7-b352-080f5eb4012a" />
+<img width="1322" height="742" alt="image" src="https://github.com/user-attachments/assets/1502635b-26df-4ed0-9b1c-89892de397f3" />
+<img width="1322" height="742" alt="image" src="https://github.com/user-attachments/assets/0ac0596c-2f91-4f6d-9c12-91d71cb28a5c" />
+
+---
+
 ## 📊 Project Deliverables
 
 The project contains the following deliverables:
